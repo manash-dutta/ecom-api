@@ -1,0 +1,2 @@
+Create a counter that will keep track of the last ID inserted. { _id: "cartItemId", value: 0 }
+While adding items, increment the counter and use counter value as id for cartItem document.
